@@ -14,7 +14,7 @@
         <ImageView
             android:layout_width="208dp"
             android:layout_height="63dp"
-            android:src="@drawable/xculogo1">
+            android:src="@drawable/monitor">
 
         </ImageView><!--        tools:srcCompat="@mipmap/xculogo1"-->
 
